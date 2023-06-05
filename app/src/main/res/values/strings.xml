@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Remist</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete the task</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Are you sure you want to mark this task as completed.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Congrats!... You have completed the task successfully..</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="log_out">Log out</string>
+</resources>
